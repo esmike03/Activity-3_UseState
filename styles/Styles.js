@@ -27,20 +27,20 @@ export const styles = StyleSheet.create({
     },
     number: {
       fontSize: 200,
-      fontWeight: '900'
+      fontWeight: '500',
     },
     main: {
       flex: 0,
       flexDirection: "column",
       justifyContent: "space-evenly",
       alignItems: "center",
-      gap: 100
+      gap: 30,
+      marginTop: 100
       
     },
     btnmain: {
       flexDirection: "row",
-      gap: 20,
-      flex: 0,
+      gap: 30,
       justifyContent: 'space-evenly',
 
     
